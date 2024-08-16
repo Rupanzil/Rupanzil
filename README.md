@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rupanzil
-- 👀 I’m interested in Web Development in Structural Engineering field
-- 🌱 I’m currently learning Full Stack web dev
+- 👀 I’m interested in software engineering and also structural engineering.
+- 🌱 I’m currently learning Full Stack web dev.
 - 💞️ I’m looking to collaborate on any web dev project related to Structural Engineering
 - 📫 How to reach me ? Let's connect on [LinkedIn](https://www.linkedin.com/in/rupanzil-mamun-prince/) or you can also connect with me on [twitter](https://twitter.com/structuralCoder)
 - ⚡ Fun fact: I am also logging down my coding journey. Look at my Journey.md
