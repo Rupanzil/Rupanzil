@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack web dev.
 - 💞️ I’m looking to collaborate on any web dev project related to Structural Engineering
 - 📫 How to reach me ? Let's connect on [LinkedIn](https://www.linkedin.com/in/rupanzil-mamun-prince/) or you can also connect with me on [twitter](https://twitter.com/structuralCoder)
-- ⚡ Fun fact: I am also logging down my coding journey. Look at my Journey.md
+
 ## My Projects
 ### Web Dev Projects related To structural Engineering
 - **[Interactive 2D Beam](https://rupanzil.github.io/interactive-beam/)**
