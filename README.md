@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b93b5cd8-b3fa-49c0-8040-2e732a036329)- 👋 Hi, I’m @Rupanzil
+- 👋 Hi, I’m @Rupanzil
 - 👀 I’m interested in software engineering and also structural engineering.
 - 🌱 I’m currently learning Full Stack web dev.
 - 💞️ I’m looking to collaborate on any web dev project related to Structural Engineering
