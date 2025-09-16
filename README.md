@@ -7,23 +7,7 @@
 
 ## My Projects
 ### Web Dev Projects related To structural Engineering
-- **[Interactive 2D Beam](https://rupanzil.github.io/interactive-beam/)** <br>
-![image](https://github.com/user-attachments/assets/843df2ce-f1dc-4645-9d16-f0bc373a23fd)
----
-### General Web Dev Projects
-#### React Projects
-- **[Amazon Best Sellers](https://react-amazon-sellers.netlify.app/)** <br>
-![image](https://github.com/user-attachments/assets/f179712a-dd05-48bf-bc2b-3765d0221894)
----
-#### HTML, CSS, JavaScript Projects
--  **[To-do List](https://rupanzil.github.io/to-do-app/)** <br>
-![image](https://github.com/user-attachments/assets/cd81215c-1e8f-43dc-a864-ab69c49a4b2d)
----
-- **[QTrip FrontEnd](https://rupanzilmamunprince-me-qtripstatic.vercel.app/)** <br>
-![image](https://github.com/user-attachments/assets/cd64573b-6e00-4017-a3c6-219721284c9b)
----
-- **[Weather App](https://rupanzil.github.io/weather-app/)** <br>
-![image](https://github.com/user-attachments/assets/50386485-16a6-4ffc-b96d-cd00ef48364b)
+
 
 
 
